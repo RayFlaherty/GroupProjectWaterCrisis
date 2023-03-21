@@ -1,8 +1,40 @@
+* {
+  color: antiquewhite;
+}
+
 h1 {
-  color: blue;
   text-align: center;
 }
 
 p {
   text-align: center;
+}
+
+#HeaderImage {
+  height: auto;
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  #HeaderImage {
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  #HeaderImage {
+    height: 300px;
+  }
+}
+
+@media (min-width: 992px) {
+  #HeaderImage {
+    height: 300px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #HeaderImage {
+    height: 300px;
+  }
 }
