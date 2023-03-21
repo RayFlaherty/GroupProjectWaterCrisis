@@ -10,8 +10,17 @@ p {
   text-align: center;
 }
 
+button {
+  background-color: blue;
+}
+
 #HeaderImage {
   height: auto;
+  width: 100%;
+}
+
+#navBar {
+  padding: 10px;
   width: 100%;
 }
 
